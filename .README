@@ -1,0 +1,6 @@
+# Instalacion
+
+Agregar archivo .env con las siguientes configuraciones
+
+MONGO_URI=mongodb+srv://jorgealejandrosaavedrarios:LjipnVIt5merN3fH@cluster0.oyskqdc.mongodb.net/?retryWrites=true&w=majority
+API_PORT=3000
